@@ -1,0 +1,1771 @@
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.426 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.867 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.288 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.21 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.18 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.209 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.152 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.228 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.152 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.221 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.18 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.157 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.196 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.222 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.172 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.158 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.183 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/validation.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.218 seconds.[0m
+sending changed CSS file: resources/public/css/screen.css
+sending changed CSS file: resources/public/css/screen.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.594 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.286 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.286 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.common/labal at line 20 src/cljs/picture_gallery/components/common.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.399 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.294 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.25 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.248 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: c, could not locate c.cljs, c.cljc, or Closure namespace "" at line 62 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var c/modal at line 62 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.321 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form-example at line 62 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.266 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.217 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.25 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.229 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.209 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.212 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.282 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.221 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.276 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/ajax.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.251 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.536 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.408 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.292 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.39 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.257 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.216 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.258 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.234 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.209 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.222 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.21 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.21 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.216 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.219 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.18 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.21 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.234 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.205 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.206 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.211 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 24 src/cljs/picture_gallery/components/registration.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.222 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 24 src/cljs/picture_gallery/components/registration.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.17 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.249 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.161 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.213 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.152 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.152 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.224 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.187 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 25 src/cljs/picture_gallery/components/registration.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.231 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 25 src/cljs/picture_gallery/components/registration.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.219 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 25 src/cljs/picture_gallery/components/registration.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.195 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 25 src/cljs/picture_gallery/components/registration.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.219 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mclojure.lang.ExceptionInfo: Namespace .picture-gallery.components.login has a segment starting with an invaild JavaScript identifier at line 1 src/cljs/picture_gallery/components/login.cljs
+ at clojure.core$ex_info.invokeStatic (core.clj:4617)
+    clojure.core$ex_info.invoke (core.clj:4617)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:576)
+    cljs.analyzer$error.invoke (analyzer.cljc:572)
+    cljs.analyzer$analyze_seq_STAR__wrap.invokeStatic (analyzer.cljc:2414)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2413)
+    cljs.analyzer$analyze_seq.invokeStatic (analyzer.cljc:2436)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2417)
+    cljs.analyzer$analyze_form.invokeStatic (analyzer.cljc:2549)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2545)
+    cljs.analyzer$analyze_STAR_.invokeStatic (analyzer.cljc:2596)
+    cljs.analyzer$analyze_STAR_.invoke (analyzer.cljc:2587)
+    cljs.analyzer$analyze.invokeStatic (analyzer.cljc:2612)
+    cljs.analyzer$analyze.invoke (analyzer.cljc:2599)
+    cljs.analyzer$parse_ns$fn__20680$fn__20681.invoke (analyzer.cljc:2728)
+    cljs.analyzer$parse_ns$fn__20680.invoke (analyzer.cljc:2728)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2706)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2687)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2697)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2687)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1415)
+    cljs.compiler$find_source.invoke (compiler.cljc:1414)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.021 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.126 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.174 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.143 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.383 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.134 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: let requires a vector for its binding at line 15 src/cljs/picture_gallery/components/login.cljs on file src/cljs/picture_gallery/components/login.cljs, line 15, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.163 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Invalid token: : on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/login.cljs, line 19, column 18
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.112 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Invalid token: : on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/login.cljs, line 19, column 18
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.187 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.133 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.145 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.154 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.155 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.183 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.163 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.201 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.199 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.19 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.192 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.17 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.222 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.158 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: session, could not locate session.cljs, session.cljc, or Closure namespace "" at line 5 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/ajax.cljs
+WARNING: Use of undeclared Var session/put! at line 5 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/ajax.cljs
+notifying browser that file changed:  out/picture_gallery/ajax.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.189 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: session, could not locate session.cljs, session.cljc, or Closure namespace "" at line 5 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/ajax.cljs
+WARNING: Use of undeclared Var session/put! at line 5 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/ajax.cljs
+notifying browser that file changed:  out/picture_gallery/ajax.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.162 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.187 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.201 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/login.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.173 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/ajax.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.915 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mclojure.lang.ExceptionInfo: Namespace .picture-gallery.components.upload has a segment starting with an invaild JavaScript identifier at line 1 src/cljs/picture_gallery/components/upload.cljs
+ at clojure.core$ex_info.invokeStatic (core.clj:4617)
+    clojure.core$ex_info.invoke (core.clj:4617)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:576)
+    cljs.analyzer$error.invoke (analyzer.cljc:572)
+    cljs.analyzer$analyze_seq_STAR__wrap.invokeStatic (analyzer.cljc:2414)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2413)
+    cljs.analyzer$analyze_seq.invokeStatic (analyzer.cljc:2436)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2417)
+    cljs.analyzer$analyze_form.invokeStatic (analyzer.cljc:2549)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2545)
+    cljs.analyzer$analyze_STAR_.invokeStatic (analyzer.cljc:2596)
+    cljs.analyzer$analyze_STAR_.invoke (analyzer.cljc:2587)
+    cljs.analyzer$analyze.invokeStatic (analyzer.cljc:2612)
+    cljs.analyzer$analyze.invoke (analyzer.cljc:2599)
+    cljs.analyzer$parse_ns$fn__20696$fn__20697.invoke (analyzer.cljc:2728)
+    cljs.analyzer$parse_ns$fn__20696.invoke (analyzer.cljc:2728)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2706)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2687)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2697)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2687)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1415)
+    cljs.compiler$find_source.invoke (compiler.cljc:1414)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.024 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.285 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.215 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.898 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.278 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 4.617 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.231 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Parameter declaration missing at line 10 src/cljs/picture_gallery/components/upload.cljs on file src/cljs/picture_gallery/components/upload.cljs, line 10, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.898 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Parameter declaration missing at line 10 src/cljs/picture_gallery/components/upload.cljs on file src/cljs/picture_gallery/components/upload.cljs, line 10, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.118 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.439 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.25 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 src/cljs/picture_gallery/components/upload.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.197 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 src/cljs/picture_gallery/components/upload.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.205 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 src/cljs/picture_gallery/components/upload.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.3 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 src/cljs/picture_gallery/components/upload.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.241 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 src/cljs/picture_gallery/components/upload.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.206 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 25 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 25 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.408 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 26 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 26 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.33 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 26 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 26 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.271 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.234 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.277 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.24 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.234 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.257 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.224 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.305 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.27 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.238 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/uplocad-form-id at line 22 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.31 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.226 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.238 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 27 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.298 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mclojure.lang.ExceptionInfo: Namespace .picture-gallery.components.gallery has a segment starting with an invaild JavaScript identifier at line 1 src/cljs/picture_gallery/components/gallery.cljs
+ at clojure.core$ex_info.invokeStatic (core.clj:4617)
+    clojure.core$ex_info.invoke (core.clj:4617)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:576)
+    cljs.analyzer$error.invoke (analyzer.cljc:572)
+    cljs.analyzer$analyze_seq_STAR__wrap.invokeStatic (analyzer.cljc:2414)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2413)
+    cljs.analyzer$analyze_seq.invokeStatic (analyzer.cljc:2436)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2417)
+    cljs.analyzer$analyze_form.invokeStatic (analyzer.cljc:2549)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2545)
+    cljs.analyzer$analyze_STAR_.invokeStatic (analyzer.cljc:2596)
+    cljs.analyzer$analyze_STAR_.invoke (analyzer.cljc:2587)
+    cljs.analyzer$analyze.invokeStatic (analyzer.cljc:2612)
+    cljs.analyzer$analyze.invoke (analyzer.cljc:2599)
+    cljs.analyzer$parse_ns$fn__20771$fn__20772.invoke (analyzer.cljc:2728)
+    cljs.analyzer$parse_ns$fn__20771.invoke (analyzer.cljc:2728)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2706)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2687)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2697)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2687)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1415)
+    cljs.compiler$find_source.invoke (compiler.cljc:1414)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.089 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.897 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/partition-links at line 12 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/pager at line 14 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 15 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.321 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/partition-links at line 12 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/pager at line 14 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 15 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.279 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 10 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/pager at line 18 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 19 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.239 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 10 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/pager at line 18 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 19 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.221 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 10 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/pager at line 18 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 19 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.194 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/back at line 14 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 18 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 27 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.251 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/back at line 14 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 20 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 29 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.235 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/back at line 14 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 21 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 30 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.192 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/back at line 14 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/nav-link at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/forward at line 19 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 25 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 34 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.188 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/nav-link at line 23 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 31 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 40 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.224 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs, line 17, column 13
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.089 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs, line 17, column 13
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.082 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 35 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 44 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.183 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 36 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 45 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.169 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 37 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/gallery at line 46 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.171 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/thumb-link at line 42 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/thumb-link at line 42 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/thumb-link at line 42 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/thumb-link at line 42 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 46 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.244 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/image-modal at line 41 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 56 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.253 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 64 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.225 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: thumb-link at line 44 is being replaced at line 52 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 72 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.251 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: thumb-link at line 44 is being replaced at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 74 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.233 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 64 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.243 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 68 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.234 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 68 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.205 seconds.[0m
+sending changed CSS file: resources/public/css/screen.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.009 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.178 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.204 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.192 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/vsc at line 68 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.32 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.309 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.207 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 30 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/GET at line 30 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.709 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.45 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.209 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/list-galleries! at line 79 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.412 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.374 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 87 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.387 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 87 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.412 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.366 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.334 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.315 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.28 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.344 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.429 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.304 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.288 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.339 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.269 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.311 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.283 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (3) passed to: core/for at line 20 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs, line 20, column 4
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.118 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 87 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.288 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 87 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.279 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 87 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.315 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 86 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.278 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 87 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.259 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 88 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.213 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 88 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.203 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/galleries at line 88 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.262 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.369 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.362 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.235 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.25 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.315 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs, line 17, column 33
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.104 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Map literal must contain an even number of forms in file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.123 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.394 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.345 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Invalid number format [10px] on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs, line 18, column 41
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.115 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.375 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.355 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.407 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.363 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.256 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/account-actions at line 43 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.25 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/account-actions at line 43 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.253 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.core/account-actions at line 43 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.264 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.286 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.253 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/delete-account-modal at line 50 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.273 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/delete-account-modal at line 50 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.284 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/delete-account-modal at line 50 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.268 seconds.[0m
+sending changed CSS file: resources/public/css/screen.css
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/delete-account! at line 16 src/cljs/picture_gallery/components/registration.cljs
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 34 src/cljs/picture_gallery/components/registration.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.334 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/delete-account! at line 16 src/cljs/picture_gallery/components/registration.cljs
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 34 src/cljs/picture_gallery/components/registration.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.265 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.278 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/delete-account! at line 16 src/cljs/picture_gallery/components/registration.cljs
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 35 src/cljs/picture_gallery/components/registration.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.271 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/delete-account! at line 16 src/cljs/picture_gallery/components/registration.cljs
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 40 src/cljs/picture_gallery/components/registration.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.257 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/delete-account! at line 16 src/cljs/picture_gallery/components/registration.cljs
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 41 src/cljs/picture_gallery/components/registration.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.274 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.registration/registration-form at line 47 src/cljs/picture_gallery/components/registration.cljs
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/registration.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.264 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.293 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.247 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.268 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.268 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.257 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 54 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var ajax/POST at line 54 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.24 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.27 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 20 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.315 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 27 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.326 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/image-panel at line 22 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 32 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.348 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/image-panel at line 22 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 33 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.317 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/image-panel at line 22 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 36 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 47 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: thumb-link at line 25 is being replaced at line 101 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.301 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (0) passed to: core/defn--35620 at line 19 src/cljs/picture_gallery/components/gallery.cljs on file src/cljs/picture_gallery/components/gallery.cljs, line 19, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.078 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/image-panel at line 22 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 36 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 47 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: thumb-link at line 25 is being replaced at line 101 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.321 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/image-panel at line 30 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 44 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 55 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: thumb-link at line 33 is being replaced at line 109 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.287 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/image-panel at line 36 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 50 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 61 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: thumb-link at line 39 is being replaced at line 115 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.321 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/iamge-panel-did-mount at line 35 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: thumb-link at line 43 is being replaced at line 119 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.342 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/iamge-panel-did-mount at line 35 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.324 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/iamge-panel-did-mount at line 35 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.305 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/iamge-panel-did-mount at line 35 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.385 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/iamge-panel-did-mount at line 35 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.326 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/iamge-panel-did-mount at line 35 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.314 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/iamge-panel-did-mount at line 35 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.318 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.376 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.321 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.33 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.332 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 66 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.336 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.335 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.338 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.319 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.332 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.34 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.336 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 2.005 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.531 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.55 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.457 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.515 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.444 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 53 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 64 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.437 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.447 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.427 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 53 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 64 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.356 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 54 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 65 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.426 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image-button at line 53 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 64 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.354 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.393 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.428 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 2.256 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.606 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.688 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.657 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.739 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.576 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.476 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.509 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.46 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/print-parm at line 118 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.567 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/print-parm at line 120 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.424 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/print-parm at line 121 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.482 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/print-parm at line 121 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.586 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/print-parm at line 121 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.521 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.428 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Wrong number of args (1) passed to picture-gallery.components.gallery/print-background! at line 98 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.44 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Wrong number of args (1) passed to picture-gallery.components.gallery/print-background! at line 98 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.507 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/print-parm at line 112 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.386 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: rgb-str at line 81 is being replaced at line 113 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: set-background! at line 84 is being replaced at line 116 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: image-panel-did-mount at line 91 is being replaced at line 123 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: render-image-panel at line 98 is being replaced at line 130 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: image-panel at line 104 is being replaced at line 136 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/print-parm at line 144 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.507 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/image-model at line 152 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.385 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/image-model at line 153 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.415 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.369 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/print-parm at line 112 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.492 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/print-parm at line 112 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.411 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.387 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.497 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.456 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.503 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/fetch-gallery-thumbs! at line 130 src/cljs/picture_gallery/core.cljs
+WARNING: Use of undeclared Var picture-gallery.components.gallery/fetch-gallery-thumbs! at line 130 src/cljs/picture_gallery/core.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.445 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.429 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 26 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: Use of undeclared Var ajax/GET at line 26 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.331 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: No such namespace: ajax, could not locate ajax.cljs, ajax.cljc, or Closure namespace "" at line 27 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+WARNING: Use of undeclared Var ajax/GET at line 27 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.379 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.302 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.326 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.304 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/sleep at line 49 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.312 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/sleep at line 49 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.331 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.288 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.316 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.319 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.334 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.323 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.335 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.31 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.334 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.306 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/reaload-modal at line 52 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.324 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "let" should be a vector at line 32 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 32, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.12 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "let" should be a vector at line 32 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 32, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.156 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "let" should be a vector at line 32 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 32, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.129 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "let" should be a vector at line 32 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 32, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.109 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "let" should be a vector at line 32 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 32, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.108 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "let" should be a vector at line 32 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 32, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.153 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "let" should be a vector at line 32 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 32, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.277 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs.asyc.core, could not locate cljs/asyc/core.cljs, cljs/asyc/core.cljc, or Closure namespace "cljs.asyc.core" in file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.205 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs.asyc.core, could not locate cljs/asyc/core.cljs, cljs/asyc/core.cljc, or Closure namespace "cljs.asyc.core" in file src/cljs/picture_gallery/components/gallery.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.13 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs.core.asyc.core, could not locate cljs/core/asyc/core.cljs, cljs/core/asyc/core.cljc, or Closure namespace "cljs.core.asyc.core" in file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.117 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs.core.asyc, could not locate cljs/core/asyc.cljs, cljs/core/asyc.cljc, or Closure namespace "cljs.core.asyc" in file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.177 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs.core.asyc, could not locate cljs/core/asyc.cljs, cljs/core/asyc.cljc, or Closure namespace "cljs.core.asyc" in file src/cljs/picture_gallery/components/gallery.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.116 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 19 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.606 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 20 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.583 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs.core.asyc, could not locate cljs/core/asyc.cljs, cljs/core/asyc.cljc, or Closure namespace "cljs.core.asyc" in file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.132 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: core.asyc, could not locate core/asyc.cljs, core/asyc.cljc, or Closure namespace "core.asyc" in file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.115 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: cljs.core.asyc, could not locate cljs/core/asyc.cljs, cljs/core/asyc.cljc, or Closure namespace "cljs.core.asyc" in file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.124 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: No such namespace: clojure.core.asyc, could not locate clojure/core/asyc.cljs, clojure/core/asyc.cljc, or Closure namespace "clojure.core.asyc" in file src/cljs/picture_gallery/components/gallery.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.114 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 20 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.501 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Invalid :refer, var var cljs.core.async/close does not exist in file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.123 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 19 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.502 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mclojure.lang.ExceptionInfo: Library name must be specified as a symbol in :require / :require-macros; offending spec: (:require [cljs.core.async :refer [<!]]) at line 1 src/cljs/picture_gallery/components/gallery.cljs
+ at clojure.core$ex_info.invokeStatic (core.clj:4617)
+    clojure.core$ex_info.invoke (core.clj:4617)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:576)
+    cljs.analyzer$error.invoke (analyzer.cljc:572)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:574)
+    cljs.analyzer$error.invoke (analyzer.cljc:572)
+    cljs.analyzer$basic_validate_ns_spec.invokeStatic (analyzer.cljc:1705)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1696)
+    cljs.analyzer$parse_require_spec.invokeStatic (analyzer.cljc:1751)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1747)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invokeStatic (core.clj:652)
+    clojure.core$partial$fn__4765.doInvoke (core.clj:2534)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:688)
+    clojure.core$next__4341.invokeStatic (core.clj:64)
+    clojure.core$reduce1.invokeStatic (core.clj:925)
+    clojure.core$reduce1.invokeStatic (core.clj:915)
+    clojure.core$merge_with.invokeStatic (core.clj:2950)
+    clojure.core$merge_with.doInvoke (core.clj:2942)
+    clojure.lang.RestFn.applyTo (RestFn.java:139)
+    clojure.core$apply.invokeStatic (core.clj:650)
+    clojure.core$apply.invoke (core.clj:641)
+    cljs.analyzer$eval20486$fn__20488$fn__20493.invoke (analyzer.cljc:1938)
+    clojure.core.protocols$fn__6755.invokeStatic (protocols.clj:167)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.014 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mclojure.lang.ExceptionInfo: Library name must be specified as a symbol in :require / :require-macros; offending spec: (:require) at line 1 src/cljs/picture_gallery/components/gallery.cljs
+ at clojure.core$ex_info.invokeStatic (core.clj:4617)
+    clojure.core$ex_info.invoke (core.clj:4617)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:576)
+    cljs.analyzer$error.invoke (analyzer.cljc:572)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:574)
+    cljs.analyzer$error.invoke (analyzer.cljc:572)
+    cljs.analyzer$basic_validate_ns_spec.invokeStatic (analyzer.cljc:1705)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1696)
+    cljs.analyzer$parse_require_spec.invokeStatic (analyzer.cljc:1751)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1747)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invokeStatic (core.clj:652)
+    clojure.core$partial$fn__4765.doInvoke (core.clj:2534)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:688)
+    clojure.core$next__4341.invokeStatic (core.clj:64)
+    clojure.core$reduce1.invokeStatic (core.clj:925)
+    clojure.core$reduce1.invokeStatic (core.clj:915)
+    clojure.core$merge_with.invokeStatic (core.clj:2950)
+    clojure.core$merge_with.doInvoke (core.clj:2942)
+    clojure.lang.RestFn.applyTo (RestFn.java:139)
+    clojure.core$apply.invokeStatic (core.clj:650)
+    clojure.core$apply.invoke (core.clj:641)
+    cljs.analyzer$eval20486$fn__20488$fn__20493.invoke (analyzer.cljc:1938)
+    clojure.core.protocols$fn__6755.invokeStatic (protocols.clj:167)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.008 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs, line 11, column 15
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.125 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 20 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.449 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 19 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.384 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 19 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.47 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 18 src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.4 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.36 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 18 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.502 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.17 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.322 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Nested #()s are not allowed on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 46, column 28
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.135 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/GET at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Nested #()s are not allowed on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 50, column 28
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.111 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/GET at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Nested #()s are not allowed on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 50, column 28
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.146 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/GET at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Nested #()s are not allowed on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 50, column 28
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.133 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.upload/GET at line 28 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Nested #()s are not allowed on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 50, column 28
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.15 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Nested #()s are not allowed on file /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/upload.cljs, line 50, column 28
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.155 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.285 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.336 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.344 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.318 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.348 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.319 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.32 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.281 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.306 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.301 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.401 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.34 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.328 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.297 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.31 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.32 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.344 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.284 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.3 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.302 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.555 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.546 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/picture_gallery/components/upload.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.493 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.517 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.494 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.729 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.597 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.481 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.476 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.456 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.449 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljc" "src/cljs" "env/dev/cljs")...
+WARNING: Use of undeclared Var picture-gallery.components.gallery/delete-image! at line 17 /home/elect/Documents/picture-gallery/src/cljs/picture_gallery/components/gallery.cljs
+notifying browser that file changed:  out/picture_gallery/components/gallery.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.44 seconds.[0m
